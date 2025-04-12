@@ -1,9 +1,18 @@
-## introduction
+## Introduction
 
 Developed full stack web app while learning node + Express.
 
-**Tools use:**  
- node, express, mongodb, cloudinary, passport, ejs engine, mapbox
+As a user on YelpCamp, you can sign up and log in to create and manage your own campgrounds, complete with images and locations. You can explore sites shared by others, leave reviews and ratings, and edit or delete your own content. An interactive map helps you discover new places to camp with ease.
+
+## 🛠️ Tech Stack
+
+- **Node.js** – Backend runtime environment for building the server and handling app logic.  
+- **Express.js** – Web framework for routing, middleware, and request handling.  
+- **MongoDB** – NoSQL database used to store campgrounds, users, and reviews.  
+- **Cloudinary** – Image storage and upload service for campground photos.  
+- **Passport.js** – Authentication middleware for user login, signup, and sessions.  
+- **EJS** – Templating engine for rendering dynamic HTML pages.  
+- **Mapbox** – Interactive maps to visualize campground locations.
 
 ## Installation
 
